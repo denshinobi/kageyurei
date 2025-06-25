@@ -8,3 +8,4 @@
 - dynamic DNS configured
 - SSH configured to log in from anywhere on planet
 - connected GitHub
+- installed Caddy
