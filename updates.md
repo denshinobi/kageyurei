@@ -9,3 +9,4 @@
 - SSH configured to log in from anywhere on planet
 - connected GitHub
 - installed Caddy
+- configured new rules to local router for ports 80 & 443
