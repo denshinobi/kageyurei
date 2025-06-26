@@ -10,3 +10,4 @@
 - connected GitHub
 - installed Caddy
 - configured new rules to local router for ports 80 & 443
+- Disabled FreeDNS as my registrars functionality hanlded this by default
