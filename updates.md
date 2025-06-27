@@ -11,3 +11,5 @@
 - installed Caddy
 - configured new rules to local router for ports 80 & 443
 - Disabled FreeDNS as my registrars functionality hanlded this by default
+- depolyed personal private CLI based cloud service `kumo`
+- downloaded NVD to soseki
