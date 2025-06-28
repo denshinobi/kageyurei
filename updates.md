@@ -13,3 +13,4 @@
 - Disabled FreeDNS as my registrars functionality hanlded this by default
 - depolyed personal private CLI based cloud service `kumo`
 - downloaded NVD to soseki
+- Uploaded books to `kumo `
