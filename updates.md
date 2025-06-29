@@ -14,3 +14,4 @@
 - depolyed personal private CLI based cloud service `kumo`
 - downloaded NVD to soseki
 - Uploaded books to `kumo `
+- Wrote `Katana.sh`
